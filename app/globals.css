@@ -29,5 +29,13 @@ margin: 0;
   padding: 0;
   
 }
+.particles {
+  background-image: url('/particles.png');
+  background-size: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
 
 
